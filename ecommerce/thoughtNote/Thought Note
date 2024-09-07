@@ -1,0 +1,2 @@
+For cart ,we use redux and reducer to  handle all operation related to cart 
+only one post request is used to handle allsoring related product data

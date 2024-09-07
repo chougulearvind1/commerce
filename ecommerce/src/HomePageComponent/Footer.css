@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+    .footer-column {/* Additional custom CSS for responsiveness */
+      margin-bottom: 20px;
+    }
+  }

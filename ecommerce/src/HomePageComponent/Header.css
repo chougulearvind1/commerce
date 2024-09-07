@@ -1,0 +1,31 @@
+
+    .pad{
+      padding: 15px 30px;
+    }
+    .bt:hover{
+               background-color: blueviolet;
+    }
+
+    .fas.fa-cart-plus {
+        font-size: 29px; 
+        transition: font-size 0.3s ease; /* Transition for smooth effect */
+    }
+
+    .fas.fa-cart-plus:hover {
+        font-size: 35px; /* Increased size on hover */
+    }
+
+    @media (max-width: 576px) {
+        
+       
+        .clr{
+        background-color: white!important;
+      }
+      }
+      .bgcolor{background-color: white;}
+      @media (min-width: 100px) {
+  .navbar-expand .navbar-collapse {
+    display: flex !important;
+  }
+}
+      
